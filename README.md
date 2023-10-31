@@ -8,8 +8,6 @@
 
   <br/>
 
-<a href="https://OILYY.github.io/ThemePreview/?file=https://cdn.jsdelivr.net/gh/OILYY/Discolored/support/discolored.theme.css"><strong>» Theme Preview</strong></a>
-・
 <a href="https://github.com/OILYY/Discolored/issues">Report an issue</a>
 ・
 <a href="https://discord.gg/Y36CTWeCFE">Join the support server</a>
