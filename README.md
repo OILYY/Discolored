@@ -8,7 +8,7 @@
 
   <br/>
 
-<a href="https://gibbu.github.io/ThemePreview/?file=https://cdn.jsdelivr.net/gh/NYRI4/Discolored/support/discolored.theme.css"><strong>» Theme Preview</strong></a>
+<a href="https://OILYY.github.io/ThemePreview/?file=https://cdn.jsdelivr.net/gh/OILYY/Discolored/support/discolored.theme.css"><strong>» Theme Preview</strong></a>
 ・
 <a href="https://github.com/OILYY/Discolored/issues">Report an issue</a>
 ・
